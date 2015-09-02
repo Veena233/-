@@ -44,3 +44,14 @@
 
 
 
+
+##书单
+- [JavaScript高级程序设计（第3版）(红宝书)](http://book.douban.com/subject/10546125/?from=tag)
+
+- [JavaScript权威指南(第6版)(犀牛书)](http://book.douban.com/subject/10549733/?from=tag)
+- [JavaScript语言精粹(蝴蝶书)](http://book.douban.com/subject/3590768/?from=tag)
+
+- [高性能JavaScript](http://book.douban.com/subject/5362856/?from=tag)
+- [HTTP权威指南](http://book.douban.com/subject/10746113/?from=tag)
+
+- [精通CSS（第2版）](http://book.douban.com/subject/4736167/?from=tag)
