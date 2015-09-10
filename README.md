@@ -33,7 +33,7 @@
 ##构建工具
 ####WebPack
 - [WebPack 官方文档](http://webpack.github.io/docs/)
-- [webpack-howto](https://github.com/petehunt/webpack-howto)
+- [webpack-howto   作者：Peter Hunt webpack基本教程](https://github.com/petehunt/webpack-howto)
 - [webpack-demos(阮一峰收集的简单的webpack小demo，帮助我们更快上手)](https://github.com/ruanyf/webpack-demos)
 
 
